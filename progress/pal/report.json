@@ -1,13 +1,13 @@
 {
  "version": 2,
  "measures": {
-  "fuzzy_match_percent": 13.027949,
+  "fuzzy_match_percent": 13.052455,
   "total_code": "5810856",
-  "matched_code": "732460",
-  "matched_code_percent": 12.605028,
+  "matched_code": "733884",
+  "matched_code_percent": 12.629533,
   "total_functions": 18134,
-  "matched_functions": 7668,
-  "matched_functions_percent": 42.28521,
+  "matched_functions": 7677,
+  "matched_functions_percent": 42.334841,
   "complete_code": "420304",
   "complete_code_percent": 7.233082,
   "total_units": 4230,
@@ -120,13 +120,13 @@
    "id": "level_code",
    "name": "Level code",
    "measures": {
-    "fuzzy_match_percent": 9.18272,
+    "fuzzy_match_percent": 9.222181,
     "total_code": "3608672",
-    "matched_code": "312156",
-    "matched_code_percent": 8.650163,
+    "matched_code": "313580",
+    "matched_code_percent": 8.689623,
     "total_functions": 9182,
-    "matched_functions": 3465,
-    "matched_functions_percent": 37.736876,
+    "matched_functions": 3474,
+    "matched_functions_percent": 37.834894,
     "complete_code": "0",
     "complete_code_percent": 0.0,
     "total_units": 15,
@@ -137,13 +137,13 @@
    "id": "common",
    "name": "Shared level code",
    "measures": {
-    "fuzzy_match_percent": 9.933011,
+    "fuzzy_match_percent": 9.98658,
     "total_code": "2008632",
-    "matched_code": "189196",
-    "matched_code_percent": 9.419147,
+    "matched_code": "190272",
+    "matched_code_percent": 9.472716,
     "total_functions": 5089,
-    "matched_functions": 2084,
-    "matched_functions_percent": 40.951071,
+    "matched_functions": 2089,
+    "matched_functions_percent": 41.049322,
     "complete_code": "0",
     "complete_code_percent": 0.0,
     "total_units": 1,
@@ -154,13 +154,13 @@
    "id": "levels",
    "name": "Level-specific code",
    "measures": {
-    "fuzzy_match_percent": 8.240833,
+    "fuzzy_match_percent": 8.262582,
     "total_code": "1600040",
-    "matched_code": "122960",
-    "matched_code_percent": 7.684808,
+    "matched_code": "123308",
+    "matched_code_percent": 7.706557,
     "total_functions": 4093,
-    "matched_functions": 1381,
-    "matched_functions_percent": 33.740533,
+    "matched_functions": 1385,
+    "matched_functions_percent": 33.83826,
     "complete_code": "0",
     "complete_code_percent": 0.0,
     "total_units": 14,
@@ -290,13 +290,13 @@
    "id": "level_08",
    "name": "Level 08: Mining Facility (and 28)",
    "measures": {
-    "fuzzy_match_percent": 7.341365,
+    "fuzzy_match_percent": 7.726908,
     "total_code": "24900",
-    "matched_code": "1828",
-    "matched_code_percent": 7.341365,
+    "matched_code": "1924",
+    "matched_code_percent": 7.726908,
     "total_functions": 48,
-    "matched_functions": 14,
-    "matched_functions_percent": 29.166667,
+    "matched_functions": 15,
+    "matched_functions_percent": 31.25,
     "complete_code": "0",
     "complete_code_percent": 0.0,
     "total_units": 1,
@@ -324,13 +324,13 @@
    "id": "level_11",
    "name": "Level 11: Tempus Station (and 31)",
    "measures": {
-    "fuzzy_match_percent": 5.681818,
+    "fuzzy_match_percent": 6.636364,
     "total_code": "8800",
-    "matched_code": "500",
-    "matched_code_percent": 5.681818,
+    "matched_code": "584",
+    "matched_code_percent": 6.636364,
     "total_functions": 15,
-    "matched_functions": 4,
-    "matched_functions_percent": 26.666667,
+    "matched_functions": 5,
+    "matched_functions_percent": 33.333333,
     "complete_code": "0",
     "complete_code_percent": 0.0,
     "total_units": 1,
@@ -375,13 +375,13 @@
    "id": "level_15",
    "name": "Level 15: Control Level (and 35)",
    "measures": {
-    "fuzzy_match_percent": 2.781589,
+    "fuzzy_match_percent": 2.891343,
     "total_code": "116624",
-    "matched_code": "3244",
-    "matched_code_percent": 2.781589,
+    "matched_code": "3372",
+    "matched_code_percent": 2.891343,
     "total_functions": 134,
-    "matched_functions": 33,
-    "matched_functions_percent": 24.626866,
+    "matched_functions": 34,
+    "matched_functions_percent": 25.373134,
     "complete_code": "0",
     "complete_code_percent": 0.0,
     "total_units": 1,
@@ -392,13 +392,13 @@
    "id": "level_41",
    "name": "Level 41: Battledome Tower (all 22 multiplayer maps)",
    "measures": {
-    "fuzzy_match_percent": 13.184438,
+    "fuzzy_match_percent": 13.21294,
     "total_code": "140340",
-    "matched_code": "15896",
-    "matched_code_percent": 11.326778,
+    "matched_code": "15936",
+    "matched_code_percent": 11.35528,
     "total_functions": 374,
-    "matched_functions": 161,
-    "matched_functions_percent": 43.048128,
+    "matched_functions": 162,
+    "matched_functions_percent": 43.315508,
     "complete_code": "0",
     "complete_code_percent": 0.0,
     "total_units": 1,
@@ -190570,13 +190570,13 @@
   {
    "name": "Shared level code",
    "measures": {
-    "fuzzy_match_percent": 9.933011,
+    "fuzzy_match_percent": 9.98658,
     "total_code": "2008632",
-    "matched_code": "189196",
-    "matched_code_percent": 9.419147,
+    "matched_code": "190272",
+    "matched_code_percent": 9.472716,
     "total_functions": 5089,
-    "matched_functions": 2084,
-    "matched_functions_percent": 40.951071,
+    "matched_functions": 2089,
+    "matched_functions_percent": 41.049322,
     "complete_code": "0",
     "complete_code_percent": 0.0,
     "total_units": 1,
@@ -191990,7 +191990,7 @@
     {
      "name": "func_L05_003E47B8",
      "size": "68",
-     "fuzzy_match_percent": 0.0,
+     "fuzzy_match_percent": 100.0,
      "address": "128088",
      "metadata": {
       "virtual_address": "4081592"
@@ -221060,7 +221060,7 @@
     {
      "name": "func_L00_00605A70",
      "size": "228",
-     "fuzzy_match_percent": 0.0,
+     "fuzzy_match_percent": 100.0,
      "address": "2361104",
      "metadata": {
       "virtual_address": "6314608"
@@ -221069,7 +221069,7 @@
     {
      "name": "func_L00_00605B58",
      "size": "228",
-     "fuzzy_match_percent": 0.0,
+     "fuzzy_match_percent": 100.0,
      "address": "2361336",
      "metadata": {
       "virtual_address": "6314840"
@@ -229430,7 +229430,7 @@
     {
      "name": "func_L00_006A09B8",
      "size": "276",
-     "fuzzy_match_percent": 0.0,
+     "fuzzy_match_percent": 100.0,
      "address": "2995800",
      "metadata": {
       "virtual_address": "6949304"
@@ -229493,7 +229493,7 @@
     {
      "name": "func_L00_006A0F88",
      "size": "276",
-     "fuzzy_match_percent": 0.0,
+     "fuzzy_match_percent": 100.0,
      "address": "2997288",
      "metadata": {
       "virtual_address": "6950792"
@@ -267447,13 +267447,13 @@
   {
    "name": "Level 08: Mining Facility (and 28)",
    "measures": {
-    "fuzzy_match_percent": 7.341365,
+    "fuzzy_match_percent": 7.726908,
     "total_code": "24900",
-    "matched_code": "1828",
-    "matched_code_percent": 7.341365,
+    "matched_code": "1924",
+    "matched_code_percent": 7.726908,
     "total_functions": 48,
-    "matched_functions": 14,
-    "matched_functions_percent": 29.166667,
+    "matched_functions": 15,
+    "matched_functions_percent": 31.25,
     "complete_code": "0",
     "complete_code_percent": 0.0,
     "total_units": 1,
@@ -267643,7 +267643,7 @@
     {
      "name": "func_L08_004B9CC0",
      "size": "96",
-     "fuzzy_match_percent": 0.0,
+     "fuzzy_match_percent": 100.0,
      "address": "980272",
      "metadata": {
       "virtual_address": "4955328"
@@ -268266,13 +268266,13 @@
   {
    "name": "Level 11: Tempus Station (and 31)",
    "measures": {
-    "fuzzy_match_percent": 5.681818,
+    "fuzzy_match_percent": 6.636364,
     "total_code": "8800",
-    "matched_code": "500",
-    "matched_code_percent": 5.681818,
+    "matched_code": "584",
+    "matched_code_percent": 6.636364,
     "total_functions": 15,
-    "matched_functions": 4,
-    "matched_functions_percent": 26.666667,
+    "matched_functions": 5,
+    "matched_functions_percent": 33.333333,
     "complete_code": "0",
     "complete_code_percent": 0.0,
     "total_units": 1,
@@ -268291,7 +268291,7 @@
     {
      "name": "func_L11_00408630",
      "size": "84",
-     "fuzzy_match_percent": 0.0,
+     "fuzzy_match_percent": 100.0,
      "address": "61584",
      "metadata": {
       "virtual_address": "4228656"
@@ -268986,13 +268986,13 @@
   {
    "name": "Level 15: Control Level (and 35)",
    "measures": {
-    "fuzzy_match_percent": 2.781589,
+    "fuzzy_match_percent": 2.891343,
     "total_code": "116624",
-    "matched_code": "3244",
-    "matched_code_percent": 2.781589,
+    "matched_code": "3372",
+    "matched_code_percent": 2.891343,
     "total_functions": 134,
-    "matched_functions": 33,
-    "matched_functions_percent": 24.626866,
+    "matched_functions": 34,
+    "matched_functions_percent": 25.373134,
     "complete_code": "0",
     "complete_code_percent": 0.0,
     "total_units": 1,
@@ -270046,7 +270046,7 @@
     {
      "name": "func_L15_004EDFA0",
      "size": "128",
-     "fuzzy_match_percent": 0.0,
+     "fuzzy_match_percent": 100.0,
      "address": "1005648",
      "metadata": {
       "virtual_address": "5169056"
@@ -270219,13 +270219,13 @@
   {
    "name": "Level 41: Battledome Tower (all 22 multiplayer maps)",
    "measures": {
-    "fuzzy_match_percent": 13.184438,
+    "fuzzy_match_percent": 13.21294,
     "total_code": "140340",
-    "matched_code": "15896",
-    "matched_code_percent": 11.326778,
+    "matched_code": "15936",
+    "matched_code_percent": 11.35528,
     "total_functions": 374,
-    "matched_functions": 161,
-    "matched_functions_percent": 43.048128,
+    "matched_functions": 162,
+    "matched_functions_percent": 43.315508,
     "complete_code": "0",
     "complete_code_percent": 0.0,
     "total_units": 1,
@@ -272269,7 +272269,7 @@
     {
      "name": "func_L41_004469F8",
      "size": "40",
-     "fuzzy_match_percent": 0.0,
+     "fuzzy_match_percent": 100.0,
      "address": "568136",
      "metadata": {
       "virtual_address": "4483576"

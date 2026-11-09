@@ -8059,3 +8059,12 @@ func_L04_004991A8	src/pal/overlays/l04_sarathos_swamp/L04_004991A8.c	other	-	-	0
 func_L08_004B9BA8	src/pal/overlays/l08_mining_facility/L08_004B9BA8.c	other	-	-	0.00
 func_L08_004B9C08	src/pal/overlays/l08_mining_facility/L08_004B9C08.c	other	-	-	0.00
 func_L11_003FF4B8	src/pal/overlays/l11_tempus_station/L11_003FF4B8.c	other	-	-	0.00
+func_L00_00605A70	src/pal/overlays/l00_multiplayer_menu/L00_00605A70.c	other	-	-	0.00
+func_L00_00605B58	src/pal/overlays/l00_multiplayer_menu/L00_00605B58.c	other	-	-	0.00
+func_L00_006A09B8	src/pal/overlays/l00_multiplayer_menu/L00_006A09B8.c	other	-	-	0.00
+func_L00_006A0F88	src/pal/overlays/l00_multiplayer_menu/L00_006A0F88.c	other	-	-	0.00
+func_L05_003E47B8	src/pal/overlays/l05_dark_cathedral/L05_003E47B8.c	other	-	-	0.00
+func_L08_004B9CC0	src/pal/overlays/l08_mining_facility/L08_004B9CC0.c	other	-	-	0.00
+func_L11_00408630	src/pal/overlays/l11_tempus_station/L11_00408630.c	other	-	-	0.00
+func_L15_004EDFA0	src/pal/overlays/l15_control_level/L15_004EDFA0.c	other	-	-	0.00
+func_L41_004469F8	src/pal/overlays/l41_battledome_tower/L41_004469F8.c	other	-	-	0.00
